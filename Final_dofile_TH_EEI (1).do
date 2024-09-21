@@ -1,9 +1,8 @@
 /********************
-ECONOMICS OF EUROPEAN INTEGRATION
-Take Home
+INDUSTRIAL ECONOMETRICS
 *********************
 
-authors: Kashish Bhatia, Lou-Anne Leroux-Orphant, Lorenzo Perazzo, Niccolo Palminteri, Tommaso Musetti
+authors: Niccolo Palminteri, Kashish Bhatia, Lou-Anne Leroux-Orphant, Lorenzo Perazzo, Tommaso Musetti
 *********************/
 
 *** first created: 26/03/2024
